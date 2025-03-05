@@ -1,2 +1,3 @@
 # webdev
-Lets revise every single topic to become better in web development. 
+
+Lets revise key topics to become better in web development.
